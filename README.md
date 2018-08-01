@@ -1,6 +1,6 @@
 # Kleister: Desktop
 
-[![Build Status](http://github.dronehippie.de/api/badges/kleister/kleister-desktop/status.svg)](http://github.dronehippie.de/kleister/kleister-desktop)
+[![Build Status](http://drone.kleister.tech/api/badges/kleister/kleister-desktop/status.svg)](http://drone.kleister.tech/kleister/kleister-desktop)
 [![Stories in Ready](https://badge.waffle.io/kleister/kleister-api.svg?label=ready&title=Ready)](http://waffle.io/kleister/kleister-api)
 [![Join the Matrix chat at https://matrix.to/#/#kleister:matrix.org](https://img.shields.io/badge/matrix-%23kleister%3Amatrix.org-7bc9a4.svg)](https://matrix.to/#/#kleister:matrix.org)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/dc6d43bf63804093819b3ac8961c4259)](https://www.codacy.com/app/kleister/kleister-desktop?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kleister/kleister-desktop&amp;utm_campaign=Badge_Grade)
