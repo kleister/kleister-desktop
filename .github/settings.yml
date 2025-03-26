@@ -1,7 +1,7 @@
 ---
 repository:
   name: kleister-desktop
-  description: "Kleister: Desktop client"
+  description: Desktop client for Kleister
   homepage: https://kleister.eu
   topics: kleister, etherpad, client, desktop
 
